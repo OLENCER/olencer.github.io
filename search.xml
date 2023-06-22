@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World!</title>
+    <url>/Hello-World/Hello-World/</url>
+    <content><![CDATA[<h3 id="UPDATE"><a href="#UPDATE" class="headerlink" title="UPDATE"></a>UPDATE</h3><hr>
+<p>2023-05-14 Hello World!<br>2023-06-15 加入评论功能<br>2023-06-15 发现查看和发送评论需要科学上网<br>2023-06-22 仔细根据REDEFINE DOCS进行再次配置，JetBrains Mono改用Google Fonts，添加ToDo-List</p>
+<h3 id="ToDo-List"><a href="#ToDo-List" class="headerlink" title="ToDo-List"></a>ToDo-List</h3><hr>
+<ul>
+<li><input disabled="" type="checkbox"> LXGWWenKai改用Google Fonts，pr进度：2023 Q2, 2023 Q3</li>
+<li><input disabled="" type="checkbox"> 解除评论功能的科学上网限制</li>
+<li><input disabled="" type="checkbox"> 主题自己造轮子</li>
+</ul>
+<hr>
+<h3 id="ACKNOWLEDGEMENT"><a href="#ACKNOWLEDGEMENT" class="headerlink" title="ACKNOWLEDGEMENT"></a>ACKNOWLEDGEMENT</h3><hr>
+<h6 id="Theme-Redefine"><a href="#Theme-Redefine" class="headerlink" title="Theme Redefine"></a><a class="link"   href="https://redfine-docs.ohevan.com/getting-started" >Theme Redefine <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><h6 id="Waline"><a href="#Waline" class="headerlink" title="Waline"></a><a class="link"   href="https://waline.js.org/" >Waline <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><h6 id="LeanCloud"><a href="#LeanCloud" class="headerlink" title="LeanCloud"></a><a class="link"   href="https://console.leancloud.app/" >LeanCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><h6 id="JetBrains-Mono"><a href="#JetBrains-Mono" class="headerlink" title="JetBrains Mono"></a><a class="link"   href="https://www.jetbrains.com/lp/mono/" >JetBrains Mono <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><h6 id="Google-Fonts"><a href="#Google-Fonts" class="headerlink" title="Google Fonts"></a><a class="link"   href="https://fonts.google.com/" >Google Fonts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><h6 id="LGWenKai"><a href="#LGWenKai" class="headerlink" title="LGWenKai"></a><a class="link"   href="https://lxgw.github.io/2021/01/28/Klee-Simpchin/" >LGWenKai <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h6><hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>Hello-World</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>目录</title>
+    <url>/LaTeX/%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>LaTeX</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ToDo-List</title>
+    <url>/Hello-World/To-Do/</url>
+    <content><![CDATA[<ul>
+<li><p><input disabled="" type="checkbox"> 
+考研上岸</p>
+<ul>
+<li><input disabled="" type="checkbox"> 考回浙江<ul>
+<li><input disabled="" type="checkbox"> 考上浙大</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><input disabled="" type="checkbox"> 
+学无止境</p>
+<ul>
+<li><input disabled="" type="checkbox"> 编程语言<ul>
+<li><input disabled="" type="checkbox"> C</li>
+<li><input disabled="" type="checkbox"> C++<ul>
+<li><input disabled="" type="checkbox"> STL</li>
+<li><input disabled="" type="checkbox"> Boost</li>
+<li><input disabled="" type="checkbox"> Qt</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Java<ul>
+<li><input disabled="" type="checkbox"> Java Web</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Python</li>
+<li><input disabled="" type="checkbox"> JavaScript<ul>
+<li><input disabled="" type="checkbox"> Node.js</li>
+<li><input disabled="" type="checkbox"> Vue.js</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Kotlin</li>
+<li><input disabled="" type="checkbox"> MySQL</li>
+<li><input disabled="" type="checkbox"> Redis</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 排版<ul>
+<li><input disabled="" type="checkbox"> LaTeX</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 视频<ul>
+<li><input disabled="" type="checkbox"> After Effects</li>
+<li><input disabled="" type="checkbox"> Premiere Pro</li>
+<li><input disabled="" type="checkbox"> Photoshop</li>
+<li><input disabled="" type="checkbox"> Illustrator</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 建模<ul>
+<li><input disabled="" type="checkbox"> Matlab</li>
+<li><input disabled="" type="checkbox"> Mathematica</li>
+<li><input disabled="" type="checkbox"> AutoCAD</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 游戏<ul>
+<li><input disabled="" type="checkbox"> Unity</li>
+<li><input disabled="" type="checkbox"> Unreal</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 操作系统<ul>
+<li><input disabled="" type="checkbox"> Linux<ul>
+<li><input disabled="" type="checkbox"> Ubuntu</li>
+<li><input disabled="" type="checkbox"> Kali</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Windows</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 编辑<ul>
+<li><input disabled="" type="checkbox"> Word</li>
+<li><input disabled="" type="checkbox"> Excel</li>
+<li><input disabled="" type="checkbox"> PowerPoint</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><input disabled="" type="checkbox"> 
+旅行</p>
+<ul>
+<li><input disabled="" type="checkbox"> 中国<ul>
+<li><input checked="" disabled="" type="checkbox"> 西湖</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 世界</li>
+</ul>
+</li>
+<li><p><input disabled="" type="checkbox"> 
+项目</p>
+<ul>
+<li><input disabled="" type="checkbox"> ToDo-List</li>
+<li><input disabled="" type="checkbox"> Blog</li>
+<li><input disabled="" type="checkbox"> Chat</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>Hello-World</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023acm</title>
+    <url>/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/</url>
+    <content><![CDATA[<h3 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h3><hr>
+<p>参加了2023年四川省acm，也算完成了一个心愿吧。<br>还是有点失意的，没有拿到铜，而且还排在参赛队伍的末尾。（？乘兴而来，败兴而归）<br>想成为大佬，可是没带动队友。队友只学了一个多月，还没有什么独立解题能力。<br>好羡慕那些大佬，好想体验躺着被carry的感觉。</p>
+<p>没拿奖，也不好意思拍照，偷偷整了几张，也没有和队友合照。（下次我一定改这不敢拍照的毛病）<br>赛场全是气球，挺震撼。<br>第一次看了滚榜，很刺激。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/1.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/2.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/3.jpg"
+                     
+                ></p>
+<h3 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h3><hr>
+<p><a href="/docs/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%9B%E9%A2%98%E5%86%8C.pdf">四川省赛题解.pdf</a><br><a href="/docs/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/2023acm/%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%9B%E9%A2%98%E8%A7%A3.pdf">四川省赛题解.pdf</a></p>
+<p>分析几道简单题，难题我也不会做。</p>
+<p>A题，一开始想到的是将金额从大到小排序，依次选取，计算结果，记录最大值，与测试用例一致。<br>第一次提交，未过。<br>队友以为是cout直接输出double，写了fixed，没写precision，小数位不对的原因。<br>我觉得误差是10-6没啥影响，试一试心态，加了precision(9)。<br>第二次提交，没过。<br>仔细分析，y是单增，x也是单增，这样是得不出最大值的，队友好像不理解为啥，一直提成类似方案，我都否决掉了，我也忘了咋解释，反正以前数学老师经常强调。<br>队友提出用y&#x2F;x，增加就加上去，不理解，不过用例也没过。<br>有一次与题解思路擦肩而过，我也是思考到y-x有贡献再加上去，但没想到可以把x拆开，一直当一个整体反比例。</p>
+<p>K题，因为图做的不精准，一直得出一个奇怪的轨迹，赛后得知是一条直线，小圆沿大圆，小圆上某一点轨迹，可以参考内摆线。<br>最后发现，无论在哪个点，沿大圆内径转一圈的轨迹一定是相同的，用测试用例反推出小圆沿大圆内径转动一圈的轨迹长度。<br>一开始核心代码只有三行，简单得不可置信，还是尝试提交。<br>第一次提交，过了。</p>
+<p>J题，以前学习双端队列的练习题，因为速成没有仔细看，只知道思路没写代码。<br>思路大致是双端队列s两端进行比较，字典序小的加入队列t，难点在于相等时，两端出队，再比较，直到出现字典序较小的。<br>相等的部分实现比较困难，因为当时做题没写过，自己写了多个测试用例。<br>首先，错误是没有考虑字典序一直相等到size&#x3D;1的情况。<br>其次改了，新加了个temp处理s，没有考虑size&#x3D;&#x3D;2，字典序相同的情况。<br>又改，出现最后运行会延迟输出，第一次运行答案不对，第二次运行正确的情况，调试时发现，t中的答案是对的，但结束t输出，return 0之前，跳至汇编mov，出现exception。(暑假在复现研究一下，不知道原因)<br>最最后，终于实现好了，我们写的用例都过了。<br>第一次提交，超时。<br>应该是deque多次出入队影响了运行时间，n是2e6，应该用数组实现队列，最后5分钟，来不及了。</p>
+<p>D题，有点思路，最短编辑距离，dp回溯。(不确定答案是不是这个思路，还没看这题答案)(看了一下，是这个思路)<br>但我看大佬都没人提交，没人ac，就先跳。(早知道差不多，就先写了，dp回溯我还不是很会写)</p>
+<p>其他都没有看出来。</p>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><hr>
+<p>多记笔记，理点模板出来。<br>暑假多学点，把以前落下的补上。<br>有时候STL慎用。</p>
+<p>期待有佬带我，请佬狠狠羞辱我。<br>好想拿金牌啊，金牌我就女装。</p>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>社会活动</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>都江堰</title>
+    <url>/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/%E9%83%BD%E6%B1%9F%E5%A0%B0/</url>
+    <content><![CDATA[<h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><hr>
+<p>参加2023四川省acm，既然到了都江堰，不去看可惜了，青城山（据说离得挺近）没去。</p>
+<h3 id="游览"><a href="#游览" class="headerlink" title="游览"></a>游览</h3><hr>
+<p>晚上7点和我的队友一起出发。<br>去的时间有点晚，上山的地方已经不让上，在附近溜达了一下。<br>从地图上看，景区里的景色应该更加壮观，不过没票，错过游玩时间。<br>随手拍了几张。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/%E9%83%BD%E6%B1%9F%E5%A0%B0/1.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/%E9%83%BD%E6%B1%9F%E5%A0%B0/2.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/%E7%A4%BE%E4%BC%9A%E6%B4%BB%E5%8A%A8/%E9%83%BD%E6%B1%9F%E5%A0%B0/3.jpg"
+                     
+                ></p>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>社会活动</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>习近平新时代中国特色社会主义思想创立的社会历史条件</title>
+    <url>/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%88%9B%E7%AB%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8E%86%E5%8F%B2%E6%9D%A1%E4%BB%B6/</url>
+    <content><![CDATA[<h3 id="中国特色社会主义进入新时代"><a href="#中国特色社会主义进入新时代" class="headerlink" title="中国特色社会主义进入新时代"></a>中国特色社会主义进入新时代</h3><hr>
+<h4 id="（一）中国特色社会主义进入新时代的依据"><a href="#（一）中国特色社会主义进入新时代的依据" class="headerlink" title="（一）中国特色社会主义进入新时代的依据"></a>（一）中国特色社会主义进入新时代的依据</h4><blockquote>
+<ol>
+<li>中国特色社会主义进入新时代是改革开放以来特别是党的十八大以来我国取得的历史性成就和发生的历史性变革的必然结果。 </li>
+<li>中国特色社会主义进入新时代是我国社会主要矛盾转化的必然结果。</li>
+</ol>
+</blockquote>
+<h4 id="（二）中国特色社会主义进入新时代的内涵"><a href="#（二）中国特色社会主义进入新时代的内涵" class="headerlink" title="（二）中国特色社会主义进入新时代的内涵"></a>（二）中国特色社会主义进入新时代的内涵</h4><blockquote>
+<ol>
+<li>（从历史脉络来看，新时代在续写新篇章）　新时代是承前启后、继往开来，在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。</li>
+<li>（从实践主题来看，新时代新在战略新安排）新时代是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。</li>
+<li>（从人民性来看，新时代新在生活新向往）　新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。</li>
+<li>（从民族性来看，新时代新在梦想新征程）　新时代是全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。              </li>
+<li>（从世界性来看，新时代新在世界新地位）　新时代是我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。</li>
+</ol>
+</blockquote>
+<h4 id="（三）中国特色社会主义进入新时代的意义"><a href="#（三）中国特色社会主义进入新时代的意义" class="headerlink" title="（三）中国特色社会主义进入新时代的意义"></a>（三）中国特色社会主义进入新时代的意义</h4><blockquote>
+<ol>
+<li>（从中华民族复兴的历史进程来看）中国特色社会主义进入新时代，意味着近代以来久经磨难的中华民族迎来了从站起来、富起来到强起来的伟大飞跃，迎来了实现中华民族伟大复兴的光明前景。</li>
+<li>（从科学社会主义的发展进程来看）中国特色社会主义进入新时代，意味着科学社会主义在21世纪的中国焕发出强大生机活力，在世界上高高举起了中国特色社会主义伟大旗帜，奏响了科学社会主义在曲折中奋起的壮丽凯歌。</li>
+<li>（从人类文明的进程来看）　　　　中国特色社会主义进入新时代，意味着中国特色社会主义道路、理论、制度、文化不断发展，拓展了发展中国家走向现代化的途径，给世界上那些既希望加快发展又希望保持自身独立性的国家和民族提供了全新选择，为解决人类问题贡献了中国智慧和中国方案。</li>
+</ol>
+</blockquote>
+<h3 id="世界正经历百年未有之大变局"><a href="#世界正经历百年未有之大变局" class="headerlink" title="世界正经历百年未有之大变局"></a>世界正经历百年未有之大变局</h3><hr>
+<h4 id="表现"><a href="#表现" class="headerlink" title="表现"></a>表现</h4><blockquote>
+<ol>
+<li>世界经济版图发生的深刻变化前所未有。</li>
+<li>新一轮科技革命和产业变革的新陈代谢和激烈竞争前所未有。</li>
+<li>国际力量对比发生的革命性的变化前所未有。</li>
+<li>全球治理体系的不适应不对称前所未有。</li>
+<li>人类前途命运的休戚与共前所未有。</li>
+</ol>
+</blockquote>
+<h3 id="中华民族伟大复兴正处于关键时期"><a href="#中华民族伟大复兴正处于关键时期" class="headerlink" title="中华民族伟大复兴正处于关键时期"></a>中华民族伟大复兴正处于关键时期</h3><hr>
+<h4 id="四大考验"><a href="#四大考验" class="headerlink" title="四大考验"></a>四大考验</h4><blockquote>
+<p>长期执政考验、改革开放考验、市场经济考验和外部环境考验。</p>
+</blockquote>
+<h4 id="四大危险"><a href="#四大危险" class="headerlink" title="四大危险"></a>四大危险</h4><blockquote>
+<p>精神懈怠危险、能力不足危险、脱离群众危险和消极腐败危险。</p>
+</blockquote>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>习近平新时代中国特色社会主义思想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>习近平新时代中国特色社会主义思想的历史地位</title>
+    <url>/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E7%9A%84%E5%8E%86%E5%8F%B2%E5%9C%B0%E4%BD%8D/</url>
+    <content><![CDATA[<blockquote>
+<h3 id="1-习近平新时代中国特色社会主义思想是当代中国马克思主义、21世纪马克思主义，是中国文化和中国精神的时代精华，实现了马克思主义中国化时代化新的飞跃。"><a href="#1-习近平新时代中国特色社会主义思想是当代中国马克思主义、21世纪马克思主义，是中国文化和中国精神的时代精华，实现了马克思主义中国化时代化新的飞跃。" class="headerlink" title="1. 习近平新时代中国特色社会主义思想是当代中国马克思主义、21世纪马克思主义，是中国文化和中国精神的时代精华，实现了马克思主义中国化时代化新的飞跃。"></a>1. 习近平新时代中国特色社会主义思想是当代中国马克思主义、21世纪马克思主义，是中国文化和中国精神的时代精华，实现了马克思主义中国化时代化新的飞跃。</h3><blockquote>
+<p>深刻汲取博大精深的中国优秀传统文化所蕴含的丰富哲学思想、人文精神、道德理念和政治智慧。</p>
+</blockquote>
+<h3 id="2-实现中华民族伟大复兴的行动指南。"><a href="#2-实现中华民族伟大复兴的行动指南。" class="headerlink" title="2. 实现中华民族伟大复兴的行动指南。"></a>2. 实现中华民族伟大复兴的行动指南。</h3><h3 id="3-建设美好世界的中国智慧和中国方案。"><a href="#3-建设美好世界的中国智慧和中国方案。" class="headerlink" title="3. 建设美好世界的中国智慧和中国方案。"></a>3. 建设美好世界的中国智慧和中国方案。</h3></blockquote>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>习近平新时代中国特色社会主义思想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>习近平新时代中国特色社会主义思想的科学体系</title>
+    <url>/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E7%9A%84%E7%A7%91%E5%AD%A6%E4%BD%93%E7%B3%BB/</url>
+    <content><![CDATA[<h3 id="习近平新时代中国特色社会主义思想的核心要义"><a href="#习近平新时代中国特色社会主义思想的核心要义" class="headerlink" title="习近平新时代中国特色社会主义思想的核心要义"></a>习近平新时代中国特色社会主义思想的核心要义</h3><hr>
+<h4 id="时代课题"><a href="#时代课题" class="headerlink" title="时代课题"></a>时代课题</h4><blockquote>
+<ol>
+<li>坚持和发展什么样的中国特色社会主义、　怎样坚持和发展中国特色社会主义。</li>
+<li>建设什么样的社会主义现代化强国、　　　怎样建设社会主义现代化强国。</li>
+<li>建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党。</li>
+</ol>
+</blockquote>
+<h4 id="鲜明主题、核心要义"><a href="#鲜明主题、核心要义" class="headerlink" title="鲜明主题、核心要义"></a>鲜明主题、核心要义</h4><blockquote>
+<p>坚持和发展中国特色社会主义，是改革开放以来我们党全部的理论和实践的鲜明主题，也是习近平新时代中国特色社会主义思想的核心要义。</p>
+</blockquote>
+<h4 id="地位"><a href="#地位" class="headerlink" title="地位"></a>地位</h4><blockquote>
+<ol>
+<li>坚持和发展中国特色社会主义　　是实现中华民族伟大复兴的必由之路。</li>
+<li>建设社会主义现代化强国　　　　是实现中华民族伟大复兴的重要标志。</li>
+<li>建设长期执政的马克思主义政党　是实现中华民族伟大复兴的重要保障。</li>
+</ol>
+</blockquote>
+<h3 id="习近平新时代中国特色社会主义思想的主要内容"><a href="#习近平新时代中国特色社会主义思想的主要内容" class="headerlink" title="习近平新时代中国特色社会主义思想的主要内容"></a>习近平新时代中国特色社会主义思想的主要内容</h3><hr>
+<h4 id="（一）十个明确"><a href="#（一）十个明确" class="headerlink" title="（一）十个明确"></a>（一）十个明确</h4><h4 id="（二）十四个坚持（坚持和发展中国特色社会主义的基本方略）"><a href="#（二）十四个坚持（坚持和发展中国特色社会主义的基本方略）" class="headerlink" title="（二）十四个坚持（坚持和发展中国特色社会主义的基本方略）"></a>（二）十四个坚持（坚持和发展中国特色社会主义的基本方略）</h4><h4 id="（三）十三个方面成就"><a href="#（三）十三个方面成就" class="headerlink" title="（三）十三个方面成就"></a>（三）十三个方面成就</h4><blockquote>
+<ol>
+<li>“十个明确”偏重于理论层面的高度概括和凝练。</li>
+<li>“十四个坚持”偏重于实践层面、方略层面的展开。</li>
+<li>“十个明确”和“十四个坚持”体现了习近平新时代中国特色社会主义思想理论于实践的统一。</li>
+</ol>
+</blockquote>
+<h3 id="习近平新时代中国特色社会主义思想的世界观和方法论"><a href="#习近平新时代中国特色社会主义思想的世界观和方法论" class="headerlink" title="习近平新时代中国特色社会主义思想的世界观和方法论"></a>习近平新时代中国特色社会主义思想的世界观和方法论</h3><hr>
+<blockquote>
+<ol>
+<li>秉承人民至上。</li>
+<li>彰显历史自觉。</li>
+<li>坚持实事求是。</li>
+<li>突出问题导向。</li>
+<li>强化战斗思维。</li>
+<li>发扬斗争精神。</li>
+</ol>
+</blockquote>
+<hr>
+<p>COPYRIGHT (c) OLENCER. ALL RIGHTS RESERVED.</p>
+]]></content>
+      <categories>
+        <category>习近平新时代中国特色社会主义思想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>目录</title>
+    <url>/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3/%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<h4 id="习近平新时代中国特色社会主义思想创立的社会历史条件"><a href="#习近平新时代中国特色社会主义思想创立的社会历史条件" class="headerlink" title="习近平新时代中国特色社会主义思想创立的社会历史条件"></a><a href="/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E5%88%9B%E7%AB%8B%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8E%86%E5%8F%B2%E6%9D%A1%E4%BB%B6">习近平新时代中国特色社会主义思想创立的社会历史条件</a></h4>]]></content>
+      <categories>
+        <category>习近平新时代中国特色社会主义思想</category>
+      </categories>
+  </entry>
+</search>
